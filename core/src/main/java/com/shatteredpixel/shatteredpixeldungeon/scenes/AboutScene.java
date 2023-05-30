@@ -63,6 +63,8 @@ public class AboutScene extends PixelScene {
 		Component content = list.content();
 		content.clear();
 
+
+
 		//*** Shattered Pixel Dungeon Credits ***
 
 		String shpxLink = "https://ShatteredPixel.com";
